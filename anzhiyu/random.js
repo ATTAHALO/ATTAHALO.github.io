@@ -1,4 +1,4 @@
-var posts=["2025/06/23/hello-world/","2025/06/23/这是一篇新的博文/"];function toRandomPost(){
+var posts=["2025/06/25/零基础快速搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages+安装AnZhiYu主题并个性化配置 全流程指南/","2025/06/23/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
